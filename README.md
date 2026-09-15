@@ -30,5 +30,5 @@ This project demonstrates a modern restaurant website with interactive features 
 
 ## 👨‍💻 Author
 
-**Your Name**
+Shivam Tiwari
 B.Tech CSE
