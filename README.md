@@ -1,5 +1,4 @@
 # 🍽️ The Dining House
-
 The Dining House is a modern, responsive restaurant website designed to provide a simple and engaging dining experience online.
 
 ## ✨ Features
